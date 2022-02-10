@@ -1,0 +1,28 @@
+label {
+    font-size: 14px;
+    color:cornflowerblue;
+    padding: 6px;
+    border-radius: 10px;
+    background-color: white;
+  }
+
+  body {
+      background-image:-webkit-linear-gradient(cyan, lightcoral, hotpink)
+  }
+
+  p {
+      font-family: 'Times New Roman', Times, serif;
+      font-weight: bold;
+      letter-spacing: 2px;
+     background-color:mistyrose;
+     border-radius: 20px;
+  }
+
+
+  #camera , #result
+  {
+    border: 2px dotted black;
+    width: 350px;
+    height: 300px; 
+  }
+ 
